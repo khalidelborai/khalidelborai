@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Open source SDKs, api integrations and automation tools
 - 📫 How to reach me
     - elboraikhalid@gmail.com
+    - khalidelborai@hotmail.com
 
 <!---
 khalidelborai/khalidelborai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
